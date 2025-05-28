@@ -1,4 +1,7 @@
-Install JDK and run 'Checkers.java' to run the program.
+Install JDK and run 'Checkers.java' to run the program and play the game.
+
+
+You can change the parameters in the following ways:
 
 Change the search depth for Alpha-Beta search by changing the value of variable "SEARCH_DEPTH"  on line 16 of "AlphaBetaSearch.java".
 
